@@ -1,0 +1,15 @@
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\netstandard2.0\SalaryCalculatorApp.deps.json
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\netstandard2.0\SalaryCalculatorApp.dll
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\netstandard2.0\ref\SalaryCalculatorApp.dll
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\netstandard2.0\SalaryCalculatorApp.pdb
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\SalaryCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\SalaryCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\SalaryCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\SalaryCalculatorApp.AssemblyInfo.cs
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\SalaryCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\SalaryCalculatorApp.dll
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\refint\SalaryCalculatorApp.dll
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\SalaryCalculatorApp.pdb

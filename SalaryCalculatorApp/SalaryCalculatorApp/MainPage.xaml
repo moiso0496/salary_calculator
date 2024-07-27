@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:SalaryCalculatorApp.ViewModels"
+             x:Class="SalaryCalculatorApp.MainPage">
+
+    <ContentPage.BindingContext>
+        <vm:SalaryCalculatorViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout Padding="20">
+        <Label Text="Salario bruto y Comisiones" />
+        <Entry Text="{Binding Salary.SalarayWithoutDeductions}" Keyboard="Numeric" />
+
+        <Label Text="Otros ingresos salariales ocasionales" />
+        <Entry Text="{Binding Salary.OtherIncome}" Keyboard="Numeric" />
+
+        <Label Text="Reembolso de gastos no salariales ni gravables" />
+        <Entry Text="{Binding Salary.ReimbursableExpenses}" Keyboard="Numeric" />
+
+        <Label Text="Asociacion Solidarista" />
+        <Entry Text="{Binding Salary.AsociacionPercentage}" Keyboard="Numeric" />
+
+        <Label Text="Plan de Pensiones Complementarias" />
+        <Entry Text="{Binding Salary.ComplementaryPension}" Keyboard="Numeric" />
+
+
+        <Button Text="Calculate" Command="{Binding CalculateCommand}" />
+
+        <Label Text="Total de rebajas" />
+        <Label Text="{Binding DeductionsBaseSalary}" />
+
+        <Label Text="Rebaja CCSS" />
+        <Label Text="{Binding CCSSDeduction}" />
+
+        <Label Text="Rebaja Renta" />
+        <Label Text="{Binding CostaRixanISRDeduction}" />
+
+        <Label Text="Rebaja Asociacion Solidarista" />
+        <Label Text="{Binding AsosacionSolidaristaDeduction}" />
+
+        <Label Text="Salario neto" />
+        <Label Text="{Binding NetSalary}" />
+    </StackLayout>
+
+</ContentPage>
