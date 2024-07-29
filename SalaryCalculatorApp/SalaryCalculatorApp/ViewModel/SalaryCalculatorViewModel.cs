@@ -21,16 +21,19 @@ namespace SalaryCalculatorApp.ViewModels
                 OnPropertyChanged(nameof(Salary));
                 OnPropertyChanged(nameof(NetSalary));
                 OnPropertyChanged(nameof(DeductionsBaseSalary));
-                _deductions = new Deductions(Salary.NetIncome, Salary.AsociacionPercentage);
+                OnPropertyChanged(nameof(CCSSDeduction));
+                OnPropertyChanged(nameof(CostaRixanISRDeduction));
+                OnPropertyChanged(nameof(AsosacionSolidaristaDeduction));
             }
         }
 
 
+
         public double NetSalary => Salary.NetIncome;
         public double DeductionsBaseSalary => Salary.Deductions;
-        public double CCSSDeduction => _deductions.CCSSDeduction;
-        public double CostaRixanISRDeduction => (double)_deductions.CostaRixanISRDeduction();
-        public double AsosacionSolidaristaDeduction => _deductions.AsosacionSolidaristaDeduction;
+        public double CCSSDeduction => Salary.CCSSDeduction;
+        public double CostaRixanISRDeduction => Salary.CostaRicanISRDeduction;
+        public double AsosacionSolidaristaDeduction => Salary.AsociacionSolidaristaDeduction;
 
         
 

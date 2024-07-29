@@ -13,3 +13,4 @@ C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalc
 C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\SalaryCalculatorApp.dll
 C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\refint\SalaryCalculatorApp.dll
 C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\SalaryCalculatorApp.pdb
+C:\Users\moisesf\source\repos\SalaryCalculatorApp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\netstandard2.0\SalaryCalculatorApp.sourcelink.json
